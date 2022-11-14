@@ -1,0 +1,14 @@
+{
+    "name": "fusion-box",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "Fusion": {
+                "$path": "node_modules/@elttob/fusion"
+            },
+            "FusionBox": {
+                "$path": "src"
+            }
+        }
+    }
+}

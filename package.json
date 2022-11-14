@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "@elttob/fusion": "github:elttob/fusion"
+    }
+}

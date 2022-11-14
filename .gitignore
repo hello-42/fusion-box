@@ -1,0 +1,15 @@
+# .toml config files
+*.toml
+
+# node_modules
+node_modules
+
+# npm package file
+package-lock.json
+
+# luau-lsp sourcemap config
+sourcemap.json
+
+# roblox studio files
+*.rbxl
+*.lock
